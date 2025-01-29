@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👨‍💻 I'm a FullStack Developer.<br>- 👋 Hi, I’m Working FullStack Projects.<br>- 👀 I’m interested in ... Frontend,Backend,DataBase(FullStack Developer)<br>- 🌱 I’m currently learning ...FullStack Developer
+- 👨‍💻 I'm a Front End Developer.<br>- 👋 Hi, I’m Working FullStack Projects.<br>- 👀 I’m interested in ... Frontend,Backend,DataBase(FullStack Developer)<br>- 🌱 I’m currently learning ...FullStack Developer
 
 
 ## 🌐 Socials:
